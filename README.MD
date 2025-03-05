@@ -2,11 +2,6 @@
 
 Welcome to the To Do App! This is a simple and easy-to-use application that helps you organize your daily tasks. With this tool, you can quickly and efficiently add, edit, mark as completed, and delete tasks.
 
-## Screenshot
-
-![Dark-Mode] (img/dark-mode.png)
-![Light-Mode] (img/light-mode.png)
-
 ## Key Features
 
 - _Add tasks:_ Add new tasks to your list with just a few clicks.
