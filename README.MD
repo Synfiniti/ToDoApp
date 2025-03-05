@@ -2,6 +2,8 @@
 
 Welcome to the To Do App! This is a simple and easy-to-use application that helps you organize your daily tasks. With this tool, you can quickly and efficiently add, edit, mark as completed, and delete tasks.
 
+Web Live: https://synfiniti.github.io/ToDoApp/
+
 ## Key Features
 
 - _Add tasks:_ Add new tasks to your list with just a few clicks.
@@ -48,3 +50,9 @@ Contributions are welcome! If you'd like to improve this app, please follow thes
 ## License
 
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
+
+## Contact
+
+Jean Gutiérrez [jeangutierrez18@gmail.com]
+GitHub: [Synfiniti] (https://github.com/Synfiniti)
+Number: +584126863736
