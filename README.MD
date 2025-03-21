@@ -28,7 +28,7 @@ Web Live: https://synfiniti.github.io/ToDoApp/
 4. Run the application.
 
 bash
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/synfiniti/ToDoApp.git
 cd todo-list-app
 npm install
 npm start
